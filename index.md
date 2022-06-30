@@ -24,5 +24,5 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 
 # Starter Project
 My starter project was the useless machine.  It had 2 switches, a LED light, and an arm attatched to a motor.  
-
+This is a test.
 [![Starter Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "Starter Project"){:target="_blank" rel="noopener"}
