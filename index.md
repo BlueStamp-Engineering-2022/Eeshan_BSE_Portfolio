@@ -13,12 +13,12 @@ TBA
 VIDEO TO BE ADDED
 
 # Second Milestone
-TBA
+For my second milestone I finished the project.  I used CAD to make 2 of the 3D-printed pieces and it was not the most enjoyabe experienence.  Onshape was a bit finniky for me and getting measurements right took a long time, compounded with the fact that many times the sketches I make can't exist according to the software I had to make the face plate and mount many times.  The ultrasonic sensor is how the robot get's the input.  Depending on how far something is from the robot it will either be angry, happy, or scared.  The byte arrays are different for each emotion and the pan and tilt servos can move if the robot is angry.
 
 VIDEO TO BE ADDED
 
 # First Milestone
-My first milestone was wiring everything up and getting different bits and pieces of the robot to work.  I also made some of the pieces(ultrasonic sensor, 16x8 matrix, and 16x2 matrix) work at the same time.  There were ups and downs during all this.  For example in the 16x8 matrix the solder was connected to the copper underneath, causing it to short circuit.  It was resolved quickly once it was noticed and nothing was damaged.  Making the byte arrays for the 16x8 matrix was very relaxing for me.  It was a simple task I could be creative with and it was a good change of pace.
+My first milestone was wiring everything up and getting different bits and pieces of the robot to work.  I also made some of the pieces(ultrasonic sensor, 16x8 matrix, and 16x2 matrix) work at the same time.  There were ups and downs during all this.  For example in the 16x8 matrix the solder was connected to the copper underneath, causing it to short circuit.  It was resolved quickly once it was noticed and nothing was damaged.  Making the byte arrays for the 16x8 matrix was very relaxing for me.  It was a simple task I could be creative with and it was a good change of pace compared to the other parts of the project.
 
 [![](https://res.cloudinary.com/marcomontalbano/image/upload/v1657554747/video_to_markdown/images/youtube--et3mZXH7JRA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=et3mZXH7JRA "")
 
