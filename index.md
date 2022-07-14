@@ -14,6 +14,8 @@ VIDEO TO BE ADDED
 
 # Second Milestone
 For my second milestone I finished the project.  I used Computer-Aided-Design(CAD) to make 2 of the 3D-printed pieces and it was not the most enjoyabe experienence.  Onshape(the CAD software I used) was a bit finniky for me and getting measurements right took a long time, compounded with the fact that many times the sketches I made couldn't exist according to the software, I had to make the face plate and mount many times.  The ultrasonic sensor is how the robot gets the input.  The sensor sends out a sound and measures the time it takes for the sound to return to it in microseconds to calculate distance in cm.  Depending on how far something is from the robot it will either be angry, happy, or scared.  The byte arrays are different for each emotion and the pan and tilt servos can move if the robot is angry as well.
+![PXL_20220713_181822309](https://user-images.githubusercontent.com/33190071/179085077-d8913f10-593e-486d-8e51-5096b4a9525a.jpg)
+![PXL_20220714_164304254](https://user-images.githubusercontent.com/33190071/179085093-52459226-2a3c-4ae0-86ab-5079b785c086.jpg)
 
 VIDEO TO BE ADDED
 
