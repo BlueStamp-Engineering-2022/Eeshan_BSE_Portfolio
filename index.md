@@ -1,5 +1,5 @@
-# Emotional Robot
-The emotional robot is a machine designed to display 3 different emotions based on distance calculated by the ultrasonic sensor. It is also able to look around thanks to the pan and tilt servo brackets.
+# Emotive Robot
+The emotive robot is a machine designed to display 3 different emotions based on distance calculated by the ultrasonic sensor, along with that it is also able to look around thanks to the pan and tilt servo brackets if programmed to do so.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -8,7 +8,7 @@ The emotional robot is a machine designed to display 3 different emotions based 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
 # Final Milestone
-TBA
+For my final milestone I made mostly cosmetic changes.  I made the pan and tilt more fluid and quick so it also can double as an idle motion.  I also painted the front of the robot black so it looks cleaner and nicer to look at.  I had to use eletrical tape on the edges, LCD display, and ultrasonic sensor to avoid painting things I didnt want painted.  Eyebrow motion was incorporated as well, giving the robot mroe dynamic emotions.
 
 VIDEO TO BE ADDED
 
@@ -17,7 +17,7 @@ For my second milestone I finished the project.  I used Computer-Aided-Design(CA
 ![PXL_20220713_181822309](https://user-images.githubusercontent.com/33190071/179085077-d8913f10-593e-486d-8e51-5096b4a9525a.jpg)
 ![PXL_20220714_164304254](https://user-images.githubusercontent.com/33190071/179085093-52459226-2a3c-4ae0-86ab-5079b785c086.jpg)
 
-VIDEO TO BE ADDED
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1658158195/video_to_markdown/images/youtube--8KqlhkrDVFU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=8KqlhkrDVFU "")
 
 # First Milestone
 My first milestone was wiring everything up and getting different bits and pieces of the robot to work.  I also made some of the pieces(ultrasonic sensor, 16x8 matrix, and 16x2 matrix) work at the same time.  There were ups and downs during all this.  For example in the 16x8 matrix the solder was connected to the copper underneath, causing it to short circuit.  It was resolved quickly once it was noticed and nothing was damaged.  Making the byte arrays for the 16x8 matrix was very relaxing for me.  It was a simple task I could be creative with and it was a good change of pace compared to the other parts of the project.
