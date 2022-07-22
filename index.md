@@ -5,7 +5,7 @@ The emotive robot is a machine designed to display 3 different emotions based on
 |:--:|:--:|:--:|:--:|
 | Eeshan | Lynbrook High School | Unknown | Incoming Junior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image](https://photos.google.com/share/AF1QipPfXXrUy84d3RworMUQWytms_AhB1PhceeMV76HeIOtnnEISkmCd99oGmAbPtCnKQ/photo/AF1QipM3Flab6vd04B0D8w044Wqxl5KEcYIytwagcgEH?key=blBtb2RCb01sX1hWc04xS3NMREJ0d3FUOWY2eWxB)
   
 # Final Milestone
 For my final milestone I made mostly cosmetic changes.  I made the pan and tilt more fluid and quick so it also can double as an idle motion.  I also painted the front of the robot black so it looks cleaner and nicer to look at.  I had to use eletrical tape on the edges, LCD display, and ultrasonic sensor to avoid painting things I didnt want painted.  Eyebrow motion was incorporated as well, giving the robot mroe dynamic emotions.  My next plans are to make the panic movement more random using a random number generator and possibly adding wheels I can control wirelessly so the robot can move around as well.
