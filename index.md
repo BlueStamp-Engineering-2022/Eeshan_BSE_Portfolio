@@ -12,7 +12,7 @@ For my final milestone I made mostly cosmetic changes.  I made the pan and tilt 
 
 ![PXL_20220722_200947019](https://user-images.githubusercontent.com/33190071/180519739-26c43609-0386-40ec-8dbf-93ede581facf.jpg)
 
-[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1658508965/video_to_markdown/images/youtube--vy6iKrW6VPo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=vy6iKrW6VPo&t=1s "")
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1658508965/video_to_markdown/images/youtube--vy6iKrW6VPo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=vy6iKrW6VPo&t=1s "Milestone 3")
 
 # Second Milestone
 For my second milestone I finished the project.  I used Computer-Aided-Design(CAD) to make 2 of the 3D-printed pieces and it was not the most enjoyabe experienence.  Onshape(the CAD software I used) was a bit finniky for me and getting measurements right took a long time, compounded with the fact that many times the sketches I made couldn't exist according to the software, I had to make the face plate and mount many times.  The ultrasonic sensor is how the robot gets the input.  The sensor sends out a sound and measures the time it takes for the sound to return to it in microseconds to calculate distance in cm.  Depending on how far something is from the robot it will either be angry, happy, or scared.  The byte arrays are different for each emotion and the pan and tilt servos can move if the robot is angry as well.
