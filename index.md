@@ -5,7 +5,7 @@ The emotive robot is a machine designed to display 3 different emotions based on
 |:--:|:--:|:--:|:--:|
 | Eeshan | Lynbrook High School | Unknown | Incoming Junior
 
-![Headstone Image](https://imgur.com/a/McKGUBr)
+![Headstone Image]<blockquote class="imgur-embed-pub" lang="en" data-id="a/McKGUBr" data-context="false" ><a href="//imgur.com/a/McKGUBr"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
   
 # Final Milestone
 For my final milestone I made mostly cosmetic changes.  I made the pan and tilt more fluid and quick so it also can double as an idle motion.  I also painted the front of the robot black so it looks cleaner and nicer to look at.  I had to use eletrical tape on the edges, LCD display, and ultrasonic sensor to avoid painting things I didnt want painted.  Eyebrow motion was incorporated as well, giving the robot mroe dynamic emotions.  My next plans are to make the panic movement more random using a random number generator and possibly adding wheels I can control wirelessly so the robot can move around as well.
