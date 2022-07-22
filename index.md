@@ -1,5 +1,5 @@
 # Emotive Robot
-The emotive robot is a machine designed to display 3 different emotions based on distance calculated by the ultrasonic sensor, along with that it is also able to look around thanks to the pan and tilt servo brackets if programmed to do so.
+The emotive robot is a machine designed to display 3 different emotions based on distance calculated by the ultrasonic sensor, along with that it is also able to look around thanks to the pan and tilt servo brackets if programmed to do so.  It can also display any message on its LCD display and since the byte maps for the emotions are global they can be changed with ease.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
